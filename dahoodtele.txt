@@ -1,0 +1,34 @@
+local UILibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/twink"))()
+
+local MainUI = UILibrary.Load("DA HOOD TELEPORTS")
+local FirstPage = MainUI.AddPage("Teleports")
+
+local FirstLabel = FirstPage.AddLabel("Scripts")
+local FirstButton = FirstPage.AddButton("Fly", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/sUA9m6M6"))()
+end)
+
+local FirstButton = FirstPage.AddButton("Lock [Q]", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/dXGvHENJ"))()
+end)
+
+local FirstLabel = FirstPage.AddLabel("Main")
+local FirstButton = FirstPage.AddButton("Admin Base", function()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-873.309631, -32.6492119, -651.348877, -0.999940217, 3.07973314e-09, 0.0109336879, 2.78485124e-09, 1, -2.69852585e-08, -0.0109336879, -2.6953197e-08, -0.999940217)
+end)
+
+local FirstButton = FirstPage.AddButton("Rev", function()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-643.472107, 21.7499943, -122.297379, -0.999976873, -1.8491086e-08, -0.00679725455, -1.88233393e-08, 1, 4.88163963e-08, 0.00679725455, 4.89432139e-08, -0.999976873)
+end)
+
+local FirstButton = FirstPage.AddButton("DB", function()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1042.6106, 21.7499943, -263.781982, -0.99996227, -2.56072177e-08, -0.00868364237, -2.51187728e-08, 1, -5.63579938e-08, 0.00868364237, -5.61377469e-08, -0.99996227)
+end)
+
+local FirstButton = FirstPage.AddButton("Food", function()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-326.631622, 23.6826458, -291.319275, -0.0164594147, -1.88507325e-08, -0.999864519, -1.66437153e-09, 1, -1.88258884e-08, 0.999864519, 1.35428291e-09, -0.0164594147)
+end)
+
+local FirstButton = FirstPage.AddButton("Bank", function()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-454.506775, 39.026001, -283.563995, -0.0058591133, 9.50117425e-08, -0.999982834, 3.60088386e-08, 1, 9.48023882e-08, 0.999982834, -3.54527607e-08, -0.0058591133)
+end)
