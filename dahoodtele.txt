@@ -1,6 +1,6 @@
 game.StarterGui:SetCore("SendNotification", {
     Title = "Welcome";
-    Text = "Go Any Where You Want!";
+    Text = "Go Any Where You Want! By Foolem";
     Icon = "rbxassetid://505845268";
     Duration = "5";
 })
