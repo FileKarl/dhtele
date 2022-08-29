@@ -32,3 +32,11 @@ end)
 local FirstButton = FirstPage.AddButton("Bank", function()
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-454.506775, 39.026001, -283.563995, -0.0058591133, 9.50117425e-08, -0.999982834, 3.60088386e-08, 1, 9.48023882e-08, 0.999982834, -3.54527607e-08, -0.0058591133)
 end)
+
+local FirstButton = FirstPage.AddButton("Armor [Med]", function()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-605.935974, 10.3496876, -795.408813, -0.999897003, -3.54454741e-08, 0.0143512143, -3.64479469e-08, 1, -6.95913371e-08, -0.0143512143, -7.0107248e-08, -0.999897003)
+end)
+
+local FirstButton = FirstPage.AddButton("Armor [High]", function()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-933.919434, -28.5000057, 566.050903, -0.999912441, -9.89919613e-09, 0.0132348519, -1.04735483e-08, 1, -4.33276242e-08, -0.0132348519, -4.34624461e-08, -0.999912441)
+end)
