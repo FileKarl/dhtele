@@ -16,7 +16,11 @@ loadstring(game:HttpGet("https://pastebin.com/raw/sUA9m6M6"))()
 end)
 
 local FirstButton = FirstPage.AddButton("Lock [Q]", function()
-loadstring(game:HttpGet("https://pastebin.com/gfsAqbRU"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/wKvLyNVf"))()
+end)
+
+local FirstButton = FirstPage.AddButton("Target Menu", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GS21Official/DH-VictimMenu-Script/main/Dh%20VictimMenu%3A%20Script"))()
 end)
 
 local FirstLabel = FirstPage.AddLabel("Main")
@@ -57,3 +61,8 @@ local FirstLabel = OtherPage.AddLabel("Fun")
 local FirstButton = OtherPage.AddButton("Walk On Walls", function()
 loadstring(game:HttpGet("https://pastebin.com/raw/bfEhUHSe"))()
 end)
+
+local FirstButton = OtherPage.AddButton("Float Knocked People [R]", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dawn-spec/dimagbbbbb/main/wow.lua"))()
+end)
+
